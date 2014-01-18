@@ -4,10 +4,10 @@
 # See https://dev.twitter.com/docs/auth/oauth for more information
 # on Twitter's OAuth implementation.
 
-CONSUMER_KEY = 'xuqt8YSg2jAEtHg8O1zQ'
-CONSUMER_SECRET = 'dvhPStn33IHJRTc5Vu8KonG6G8K3D4AAXNuXdMGN8'
-OAUTH_TOKEN = '108747577-zx6OoAL0ShI9mivD5OI4P3jBMiSKLzP3WCQFmroz'
-OAUTH_TOKEN_SECRET = 'mNn1DsT8E1m5Mh7XijMRODhMqGlMcfPG75rli5d3vCS1y'
+CONSUMER_KEY = ''
+CONSUMER_SECRET = ''
+OAUTH_TOKEN = ''
+OAUTH_TOKEN_SECRET = ''
 
 # Localization
 # The Yahoo! Where On Earth ID for the entire world is 1.
